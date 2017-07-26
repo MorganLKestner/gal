@@ -11,6 +11,12 @@ GAL - General Assembly Ladies. Weekly Study Group and Resource from all meetings
 - move your folder in the gal/
 - git add . git status git commit -m "[your message]" git push
 
+# Also check out 
+
+- Anna's github repo for other lessons covered.
+- https://github.com/annarankin/promises
+- https://github.com/annarankin/es6_stuff
+
 
 
 
